@@ -10,11 +10,11 @@
   <a href="https://github.com/abdomohamed911">
     <img src="https://img.shields.io/badge/GitHub-abdomohamed911-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/abdomohamed911">
+  <a href="https://www.linkedin.com/in/eng-abdelrahmanmohamed">
     <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman_Mohamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:abdomohamed911@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abdomohamed911%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:abdelrahmanmohamed9112@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abdelrahmanmohamed9112@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://abdelrahman-mohamed-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -274,10 +274,10 @@ jobs:
   <a href="https://github.com/abdomohamed911">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoSize=auto" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/abdomohamed911">
+  <a href="https://www.linkedin.com/in/eng-abdelrahmanmohamed">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" alt="LinkedIn" />
   </a>
-  <a href="mailto:abdomohamed911@gmail.com">
+  <a href="mailto:abdelrahmanmohamed9112@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" alt="Email" />
   </a>
   <a href="https://abdelrahman-mohamed-portfolio.vercel.app">
