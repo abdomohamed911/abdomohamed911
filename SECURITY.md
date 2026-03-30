@@ -1,0 +1,11 @@
+# Security Policy
+
+## Reporting a Vulnerability
+
+If you discover a security vulnerability in any of my projects, please report it responsibly by contacting me directly at [abdelrahman.mohamed.dev@gmail.com](mailto:abdelrahman.mohamed.dev@gmail.com).
+
+Please do not publicly disclose the vulnerability until it has been addressed.
+
+## Supported Versions
+
+I actively maintain and patch all my public repositories. Please ensure you are using the latest version before reporting.
