@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Abdelrahman_Mohamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abdelrahmanmohamed9112@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abdomohamed911%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-abdelrahmanmohamed9112@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://abdelrahman-mohamed-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
